@@ -1,0 +1,10 @@
+/* label{
+    color: red;
+} */
+.link1{
+    color: red;
+}
+form{
+    border: 5px solid;
+    border-radius:5px 10px 15px 20px;
+}
